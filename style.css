@@ -1,7 +1,10 @@
-body{
+p{
     color: blue;
 }
 h1{
     border-left-color: brown;
-    color: yellowgreen;
+    color: rgb(205, 68, 50);
+}
+body{
+    background-color: aquamarine;
 }
